@@ -1,4 +1,4 @@
-# Vue Enterprise Boilerplate
+# Vue Enterprise Boilerplate test
 
 [![CircleCI](https://circleci.com/gh/frandiox/vue-graphql-enterprise-boilerplate/tree/master.svg?style=svg)](https://circleci.com/gh/frandiox/vue-graphql-enterprise-boilerplate/tree/master)
 
