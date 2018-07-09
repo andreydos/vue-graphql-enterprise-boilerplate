@@ -1,6 +1,6 @@
 # Vue Enterprise Boilerplate test
 
-[![CircleCI](https://circleci.com/gh/frandiox/vue-graphql-enterprise-boilerplate/tree/master.svg?style=svg)](https://circleci.com/gh/frandiox/vue-graphql-enterprise-boilerplate/tree/master)
+**You diverged from the boilerplate on Jul 09 2018. See [what's been added](https://github.com/frandiox/vue-enterprise-boilerplate/compare/946e153d4d660cd46a362c6e400e787b3c2e6d04...master) since then.**
 
 ## Intro
 
